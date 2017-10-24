@@ -1,2 +1,2 @@
 # The_information_parser
-Parser for channel Arktik TV. This set of scripts receiving the desired values and writes them to text files, then the system control that channel shows them on the screen
+This is a parser for the "Arctic TV" channel. This is a set of scripts that receive the desired values ​​and writes them to text files, then the management system of the graphic interface of the TV channel displays them on the screen.
